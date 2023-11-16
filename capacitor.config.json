@@ -1,0 +1,6 @@
+{
+  "appId": "com.management.app",
+  "appName": "management-tutorial",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
